@@ -5,7 +5,7 @@ Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 # Compare our models
 
-# Deployment model on Website/Application
+# Deployment model with Gradio on Huggingface
 
 Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p4MuCCgUp1WsDdP5jg2Vb8wbPMsJfsqj?usp=sharing)
 
