@@ -11,8 +11,8 @@ Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 ```
 demos/
-└── foodvision_mini/
-    ├── 09_pretrained_effnetb2_feature_extractor_pizza_steak_sushi_20_percent.pth
+└── dogvscat_mini/
+    ├── ResNet.pth
     ├── app.py
     ├── examples/
     │   ├── example_1.jpg
