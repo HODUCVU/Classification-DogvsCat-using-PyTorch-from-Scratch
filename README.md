@@ -33,9 +33,10 @@ demos/
     ```
       git remote set-url origin https://USERNAME:YOUR_ACCESS_TOKEN@huggingface.co/spaces/USERNAME/REPO_NAME.git
     ```
+<!-- 
 - Example: 
     ```
         git remote add origin https://hoducvu1234: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@huggingface.co/spaces/Duc-Vu/Dogs-and-Cats
     ```
-
+-->
   
