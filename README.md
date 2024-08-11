@@ -4,8 +4,6 @@
 ⚡ **Notebook - Train models**
 > Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FCGTppY8ZcNOLiJ3ldsPp5qfXXdw3KOy?usp=sharing)
 
-# Compare our models
-
 # 🔧 Deployment model
 ⚡ **Notebook - Evaluating models and deploy them**
 > Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p4MuCCgUp1WsDdP5jg2Vb8wbPMsJfsqj?usp=sharing) 
