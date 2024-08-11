@@ -8,6 +8,7 @@
 
 🖱️ If you don't want to train on Colab, well, just run this statement below:
 ```
+User> pip install -r requirements.txt
 User> python3 train_resnet_model.py
 ```
 📉 Evaluating Train and Testing Processing
