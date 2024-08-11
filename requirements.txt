@@ -1,0 +1,10 @@
+gradio>=4.39.0
+torchvision>=0.18.1
+torch>=2.3.1
+torchinfo
+pandas
+matplotlib
+kaggle
+PIL
+tqdm
+timeit
