@@ -1,6 +1,8 @@
 # Classification-DogvsCat-using-PyTorch-from-Scratch
 🔰 This is a project that uses PyTorch to classify dogs and cats. I built it from scratch and compared multiple models to see which one worked better
 
+📎 I do this project to practice what I learned from this course [PyTorch for Deep Learning & Machine Learning – Full Course with 30 hours - freecodecamp.org](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=15&t=92s)
+
 ⚡ **Notebook - Train models**
 > Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FCGTppY8ZcNOLiJ3ldsPp5qfXXdw3KOy?usp=sharing)
 
