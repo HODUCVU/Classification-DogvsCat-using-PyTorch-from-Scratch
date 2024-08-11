@@ -27,7 +27,7 @@ User> python3 train_resnet_model.py
 
 
 
-# Deployment model
+# Evaluating models and deploy them
 ⚡ **Notebook - Evaluating models and deploy them**
 > Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p4MuCCgUp1WsDdP5jg2Vb8wbPMsJfsqj?usp=sharing) 
 
