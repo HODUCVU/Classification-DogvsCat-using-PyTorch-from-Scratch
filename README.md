@@ -4,13 +4,31 @@
 ⚡ **Notebook - Train models**
 > Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FCGTppY8ZcNOLiJ3ldsPp5qfXXdw3KOy?usp=sharing)
 
-# 🔧 Deployment model
+🖱️ If you don't want to train on Colab, well, just run this statement below:
+```
+User> python3 train_resnet_model.py
+```
+📉 Evaluating Train and Testing Processing
+- We can see that the results from the ResNet50 model are much better than the TinyVGG model, however, in the ResNet50 model, we can see that the model is overfitting. To solve this problem, we can reduce the number of layers in the ResNet50 model, in addition, we can experiment with some other optimizer types such as SGD or Adam to see the efficiency.
+  
+    <img width="600" alt="TinyVGG model" src="https://github.com/user-attachments/assets/3f83820b-9582-434f-8692-bec7dcbe1af3">
+    <img width="600" alt="ResNet50 model" src="https://github.com/user-attachments/assets/a218c5b1-6a15-4995-adb4-687ebb2cc1b6">
+
+
+😾 Predict with ResNet50 model
+
+<img width="350" height="350" alt="Cat with ResNet50 model" src="https://github.com/user-attachments/assets/f0890b4a-827a-40fa-af3c-12233cb44527">
+<img width="400" height="350" alt="Dog with ResNet50 model" src="https://github.com/user-attachments/assets/0fc42aac-01d8-4bf5-b5c7-ffdcab7b0c76">
+
+
+
+# Deployment model
 ⚡ **Notebook - Evaluating models and deploy them**
 > Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p4MuCCgUp1WsDdP5jg2Vb8wbPMsJfsqj?usp=sharing) 
 
 📁 **File Structure**
 ```
-demos/
+deploy/
 └── dogvscat_mini/
     ├── ResNet.pth
     ├── app.py
@@ -21,8 +39,6 @@ demos/
     ├── model.py
     └── requirements.txt
 ```
-## App demo ResNet50 model (deployed)
-
 ### Using git tokens to push on huggingface space
 - See more here https://dev.to/sh20raj/how-to-use-git-with-hugging-face-from-cloning-to-pushing-with-access-token-verification-5711
 - format: 
