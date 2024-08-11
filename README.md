@@ -14,6 +14,11 @@ User> python3 train_resnet_model.py
     <img width="600" alt="TinyVGG model" src="https://github.com/user-attachments/assets/3f83820b-9582-434f-8692-bec7dcbe1af3">
     <img width="600" alt="ResNet50 model" src="https://github.com/user-attachments/assets/a218c5b1-6a15-4995-adb4-687ebb2cc1b6">
 
+😾 Predict with TinyVGG model
+
+<img width="350" height="350" alt="Dog with TinyVGG model" src="https://github.com/user-attachments/assets/72888ad3-336b-44cc-99ec-ea71a5d26d56">
+<img width="400" height="350" alt="Cat with TinyVGG model" src="https://github.com/user-attachments/assets/c40a8229-07d9-4ec9-98fb-d1054d7b8be7">
+
 
 😾 Predict with ResNet50 model
 
