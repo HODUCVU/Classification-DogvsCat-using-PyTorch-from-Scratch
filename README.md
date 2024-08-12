@@ -6,7 +6,7 @@
 ⚡ **Notebook - Train models**
 > Open with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FCGTppY8ZcNOLiJ3ldsPp5qfXXdw3KOy?usp=sharing)
 
-🖱️ If you don't want to train on Colab, well, just run this statement below:
+🖱️ If you don't want to train on Colab, well, just run the commands below:
 ```
 User> pip install -r requirements.txt
 User> python3 train_resnet_model.py
